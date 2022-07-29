@@ -1,0 +1,32 @@
+.a{
+    background-color: yellowgreen  
+}
+.b{
+    background-color: bisque
+}
+.c{
+    background-color: burlywood  
+}
+nav{
+    background-color: brown
+
+}
+h1{
+    color: aqua;
+    font-weight: bolder;
+}
+
+
+
+table a{
+    text-decoration: none;
+    background-color: aqua;
+    color: #000;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+/* body{
+    background-color: #000;
+} */
