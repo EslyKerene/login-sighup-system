@@ -18,7 +18,7 @@
 <body>
 <?php
 include ('_header/meta.php');
-    require_once ('_header/link.php');
+    require_once ('_ header/link.php');
 
 
 require_once ('_menu/menu.php');
